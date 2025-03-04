@@ -1,4 +1,4 @@
-package dsaYTvideo.BinarySearchTreeVID;
+package DSAFullCourse.BinarySearchTreeVID;
 
 public class BinarySearchTree {
     Node root;

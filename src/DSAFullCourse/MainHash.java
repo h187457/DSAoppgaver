@@ -1,4 +1,4 @@
-package dsaYTvideo;
+package DSAFullCourse;
 
 import java.util.Hashtable;
 
